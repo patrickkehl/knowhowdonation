@@ -1,0 +1,224 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by Pixelarity
+	pixelarity.com | hello@pixelarity.com
+	License: pixelarity.com/license
+  	Jekyll integration by somiibo.com
+-->
+<html>
+	<head>
+    <meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+
+<title>Crowdfunding ICO</title>
+<meta name="description" content="The present ICO of the know-how donation token serves the funding of the non-profit foundation and audit organization. Participation in the ICO is a donation for the creation of the needed legal entities and to put them into operation following the road map as it is described in the white paper “Know-How Transfer Paradigm Change". The ICO is also a means to ensure that a minimal funding is achieved. Participants can reclaim their donation from an escrow if the goal of the ICO is not reached. The goal is equivalent to the minimal funding of an international foundation in Switzerland required by authorities.">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/icon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/icon/favicon-16x16.png">
+<link rel="manifest" href="/assets/icon/manifest.json">
+<link rel="mask-icon" href="/assets/icon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/icon/favicon.ico">
+<meta name="msapplication-config" content="/assets/icon/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/assets/css/main.css" />
+<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="/" class="logo">Know-How Donation</a>
+				</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            <ul class="links">
+  <li class=""><a href="/">Home</a></li>
+  <li class=""><a href="/whitepaper/">White Paper</a></li>
+  <li class=" active "><a href="/ICO/">Crowdfunding ICO</a></li>
+  <li class=""><a href="/blog/">Blog</a></li>
+</ul>
+
+
+						<ul class="icons">
+              <li><a href="https://github.com/patrickkehl" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Post -->
+					<section class="post">
+						<p><h2 class="no_toc" id="know-how-donation-crowdfunding-campaign">Know-How Donation Crowdfunding Campaign</h2>
+
+<h3 class="no_toc" id="overview-of-the-crowdfunding-ico">Overview of the Crowdfunding ICO</h3>
+<p><em>The present initial coin offering (ICO) of the know-how donation (KHDON) token serves the funding of a non-profit foundation and audit organization. Participation in the ICO is a donation for the creation of the needed legal entities and following the road map as it is described in the White paper: “Know-How Transfer Paradigm Change.</em></p>
+
+<h3 class="no_toc" id="table-of-contents">Table of contents</h3>
+<ul id="markdown-toc">
+  <li><a href="#how-to-participate" id="markdown-toc-how-to-participate">How to participate</a></li>
+  <li><a href="#explanation-of-the-khdon-crowdfunding-campaign" id="markdown-toc-explanation-of-the-khdon-crowdfunding-campaign">Explanation of the KHDON crowdfunding campaign</a></li>
+  <li><a href="#why-so-complicated" id="markdown-toc-why-so-complicated">Why so complicated?</a></li>
+  <li><a href="#how-to-participate-if-you-are-not-familiar-with-cryptotechnology" id="markdown-toc-how-to-participate-if-you-are-not-familiar-with-cryptotechnology">How to participate if you are not familiar with cryptotechnology?</a></li>
+  <li><a href="#disclaimer" id="markdown-toc-disclaimer">Disclaimer</a></li>
+</ul>
+
+<h3 id="how-to-participate">How to participate</h3>
+<p>In short, just send before
+Wednesday, May 1, 2019 at 10:37:13 UTC some ETH to the ethereum contract address <a href="https://etherscan.io/address/0x6a5e59fbaea3e07737fbafceb600cbde5a295f24">0x6A5E59fBaeA3E07737fBAFCeb600CBDe5a295F24</a>.</p>
+
+<h3 id="explanation-of-the-khdon-crowdfunding-campaign">Explanation of the KHDON crowdfunding campaign</h3>
+<p>The ethereum network allows to program a contract that can receive ether (ETH) - a cryptocurrency that is traded worldwide in exchange of to national currencies. The crowdfunding is facilitated by two such contracts. The first contract defines the Know-How Donation Token as a cryptocurrency and the second contract initiates a crowdsale of this token.</p>
+
+<p>All contract code modules are coming from the <a href="https://openzeppelin.org/">OpenZeppelin</a>. These code modules are audited and make the contracts more secure. The following modules are central to the crowdfunding campaign:</p>
+
+<p>RefundableCrowdsale - set a minimal goal to be reached and returns funds if it’s not met.
+MintedCrowdsale - tokens are minted in each purchase.</p>
+
+<p>The code of the <a href="https://etherscan.io/address/0x9cecfc560eea26e47eac74eb5ee908ccb0f8c194#code">KHDON Token</a> and <a href="https://etherscan.io/address/0x6a5e59fbaea3e07737fbafceb600cbde5a295f24#code">KHDON Crowdsale</a> contracts is public and the contracts are verified against the code.</p>
+
+<p>It basically works like this:
+When ether is transferred to the KHDON Crowdsale contract, then the KHDON token is minted by the KHDON Token contract and sent as a receipt to the sender. The ether is collected in a refund escrow until the end of the crowdsale. The full escrow is sent to the contract owner if the escrow is higher than the crowdsale goal. Otherwise every sender can request a refund directly at the contract and the contract sends the ether back.</p>
+
+<p>The KHDON Crowdsale has the following settings:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Contract address</td>
+      <td>0x6A5E59fBaeA3E07737fBAFCeb600CBDe5a295F24</td>
+    </tr>
+    <tr>
+      <td>Token name</td>
+      <td>Know-How Donation Token</td>
+    </tr>
+    <tr>
+      <td>Token symbol</td>
+      <td>KHDON</td>
+    </tr>
+    <tr>
+      <td>Exchange rate</td>
+      <td>10 KHDON / 1 ETH</td>
+    </tr>
+    <tr>
+      <td>Minimal goal to be met</td>
+      <td>500 ETH</td>
+    </tr>
+    <tr>
+      <td>Crowdsale start</td>
+      <td>Saturday, October 13, 2018 at 10:37:43 UTC</td>
+    </tr>
+    <tr>
+      <td>Crowdsale end</td>
+      <td>Wednesday, May 1, 2019 at 10:37:13 UTC</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>When you send 1 ETH to the contract address 0x6A5E59fBaeA3E07737fBAFCeb600CBDe5a295F24 until May 1, 2019, then you will receive 10 KHDON as a receipt. The ether will be kept by the contract in an escrow and only released to me when the minimal goal of 500 ETH is surpassed till the end of the donation campaign. When the goal is not met, then you can simply call the refund function of the contract and get your donation back.</p>
+
+<h3 id="why-so-complicated">Why so complicated?</h3>
+<p>The basis of technology needed for timed know-how donations is already here and used by crypocurrencies such as bitcoin and ethereum. Many people are already using this technology actively. For these people participating in an ICO on the ethereum blockchain is easier than initiating a bank transfer.</p>
+
+<p>The refundable crowdsale is a means to ensure that a minimal funding is achieved or all donations can be reclaimed. The goal is equivalent to the minimal funding of an international foundation in Switzerland required by authorities - I do not want to have any donations on my bank account if this amount is not met and the project cannot move forward at this time.</p>
+
+<p>In any case, the gained publicity makes the crowdfunding campaign a success. The primary goal is to spread the idea of timed know-how donations and stimulate reflections on know-how life cycles as well as know-how distribution. Some ideas need longer time to root in society. However, if there is a chance to initiate a know-how transfer paradigm change now - I will not hesitate a second to do so. Clearly the best outcome would not be a minimal funding, but a funding that allows the build up of global operations.</p>
+
+<h3 id="how-to-participate-if-you-are-not-familiar-with-cryptotechnology">How to participate if you are not familiar with cryptotechnology?</h3>
+<p>It is worth it to become familiar with cryptotechnology. There are many options in how to acquire ether and make transactions on the ethereum network. I will prepare in the near future a simple step-by-step guide to get you started.</p>
+
+<h3 id="disclaimer">Disclaimer</h3>
+<p>The ethereum network and crowdfunding technology is still evolving. Although I have taken utmost care to test the crowdsale contract code, I cannot guarantee the proper functioning of the code in every situation. Please note this ICO is not an investment but a donation for the funding of a non-profit foundation. The KHDON token has no value in itself and token holders will not receive any advantages over the general public by holding a KHDON token. The token is simply a receipt for your donation.</p>
+</p>
+					</section>
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+								<li><a href="/blog/" class="button">Blog</a></li>
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        <footer id="footer">
+  <section>
+    <form method="POST" action="https://formspree.io/patrick.kehl@live.com">
+      <div class="field">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" />
+      </div>
+      <div class="field">
+        <label for="email">Email</label>
+        <input type="text" name="email" id="email" />
+      </div>
+      <div class="field">
+        <label for="message">Message</label>
+        <textarea name="message" id="message" rows="3"></textarea>
+      </div>
+      <ul class="actions">
+        <li><input type="submit" value="Send Message" /></li>
+      </ul>
+    </form>
+  </section>
+  <section class="split contact">
+    <section class="alt">
+      <h3>Location</h3>
+      <p>Bern, Switzerland</p>
+    </section>
+    <section>
+      <h3>Email</h3>
+      <p><a href="mailto:patrick.kehl@live.com">patrick.kehl@live.com</a></p>
+    </section>
+    <section>
+      <h3>Social</h3>
+      <ul class="icons alt">
+        <li><a href="https://github.com/patrickkehl" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+      </ul>
+    </section>
+  </section>
+</footer>
+<!-- Copyright -->
+<div id="copyright">
+  <ul><li>&copy; <a href="https://github.com/patrickkehl" rel="nofollow">Patrick Kehl</a></li></li></ul>
+</div>
+
+
+			</div>
+
+			<!-- Scripts -->
+			<!-- DYN -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrollex.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/skel.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
+
+			<script async src="https://www.googletagmanager.com/gtag/js?id=UA-126192420-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-126192420-1');
+</script>
+
+
+	</body>
+</html>
