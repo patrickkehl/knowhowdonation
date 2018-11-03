@@ -1,3 +1,356 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://www.knowhowdonation.org/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://www.knowhowdonation.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.knowhowdonation.org/" rel="alternate" type="text/html" /><updated>2018-10-17T00:33:30+02:00</updated><id>https://www.knowhowdonation.org/</id><title type="html">Know-How Donation</title><subtitle>Know-How Transfer Paradigm Change</subtitle><entry><title type="html">Know-How Donation Crowdfunding ICO has started</title><link href="https://www.knowhowdonation.org/blog/Know-How-Donation-Crowdfunding-ICO-has-started/" rel="alternate" type="text/html" title="Know-How Donation Crowdfunding ICO has started" /><published>2018-10-13T00:00:00+02:00</published><updated>2018-10-13T00:00:00+02:00</updated><id>https://www.knowhowdonation.org/blog/Know- How-Donation-Crowdfunding-ICO-has-started</id><content type="html" xml:base="https://www.knowhowdonation.org/blog/Know-How-Donation-Crowdfunding-ICO-has-started/">&lt;p&gt;It was quite a journey from the first glimpse of the idea behind timed know-how donations on the highway towards a fully developed concept written down in a white paper. This journey convinced me that a know-how transfer paradigm shift is possible. We just need to reach a critical mass of people adopting the new practice.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="https://www.knowhowdonation.org/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="https://www.knowhowdonation.org/feed.xml" rel="self" type="application/atom+xml" /><link href="https://www.knowhowdonation.org/" rel="alternate" type="text/html" /><updated>2018-11-03T23:47:00+01:00</updated><id>https://www.knowhowdonation.org/</id><title type="html">Know-How Donation</title><subtitle>Know-How Transfer Paradigm Change</subtitle><entry><title type="html">How to acquire ETH and make a transaction on the ethereum blockchain</title><link href="https://www.knowhowdonation.org/blog/how-to-acquire-eth-and-make-a-transaction-on-the-ethereum-blockchain/" rel="alternate" type="text/html" title="How to acquire ETH and make a transaction on the ethereum blockchain" /><published>2018-11-02T00:00:00+01:00</published><updated>2018-11-02T00:00:00+01:00</updated><id>https://www.knowhowdonation.org/blog/how-to-acquire-eth-and-make-a-transaction-on-the-ethereum-blockchain</id><content type="html" xml:base="https://www.knowhowdonation.org/blog/how-to-acquire-eth-and-make-a-transaction-on-the-ethereum-blockchain/">&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#basics&quot; id=&quot;markdown-toc-basics&quot;&gt;Basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#metamask-installation&quot; id=&quot;markdown-toc-metamask-installation&quot;&gt;MetaMask installation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#acquire-ether&quot; id=&quot;markdown-toc-acquire-ether&quot;&gt;Acquire ether&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#make-transactions-on-the-ethereum-network&quot; id=&quot;markdown-toc-make-transactions-on-the-ethereum-network&quot;&gt;Make Transactions on the ethereum network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#summary&quot; id=&quot;markdown-toc-summary&quot;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;basics&quot;&gt;Basics&lt;/h2&gt;
+&lt;p&gt;Some things work a little bit different in the crypto world. You need for a start an account address on the ethereum network and you do not depend on other people to get the address. No bank will make an account for you. All you need is a sequence of 12 words that will create and unlock your account. The sequence of 12 words is a mnemonic that is much easier to deal with than a cryptic combination of random letters. These 12 worlds need to be random in order to be safe. The human brain can easily remember 12 words - but even better if they are not random. The words are not random For example if you choose any 12 words from this website or a favorite book of yours. Even if you invent a story consisting of 12 words, the words are not random. The problem with non-random words is the following: Anyone skilled could write a program to test combinations of 12 words to unlock the blockchain. It is just a matter of computing time and skill of the programmer until he hits a combination of 12 words that someone thought easy to remember. An approach could be to use ebooks of recent bestseller books as input and check if anyone in this world though this a good hiding place for a mnemonic. Obviously it is no good hiding place. A random combination of 12 words is safe because all the calculation power of this world is not enough to test all possible combinations against the blockchain until the end of the universe. When a human chooses seemingly random words, then this level of security is not achieved. The human brain might like combination of words that are easier to remember. This means a brute force attack would not need to go on until the end of the universe. The more logic the choices are for you, the shorter the computation time required to break into your account.&lt;/p&gt;
+
+&lt;p&gt;I hope with this I have convinced you that mnemonics are safe, but you need a program to choose the words randomly for you. And this program should store the mnemonic only encrypted. To store the words in plain text or in a picture is not recommendable - anyone who might get access to your computer would also get access to your account.&lt;/p&gt;
+
+&lt;h2 id=&quot;metamask-installation&quot;&gt;MetaMask installation&lt;/h2&gt;
+&lt;p&gt;MetaMask is a program that can choose a random mnemonic for you, store it in encrypted form and allow you to access the ethereum blockchain with this mnemonic. You need to have Chrome or Firefox installed.&lt;/p&gt;
+
+&lt;p&gt;Now head over to &lt;a href=&quot;https://metamask.io&quot;&gt;metamask.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask01.png&quot; alt=&quot;metamask.io start page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and get the chrome extension.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask02.png&quot; alt=&quot;MetaMask get chrome extension&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The rights for the extension are OK. After all the program needs to make the payments for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask03.png&quot; alt=&quot;MetaMask add extension&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you are ready. There is no need to sync to other devices. You can just close the pop-up window.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask04.png&quot; alt=&quot;MetaMask extension added&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Anytime you need to open MetaMask, just click on the fox icon in the upper right corner. On the first opening you have to choose if you want to go with a standard version or with a beta version. Choose the beta version. It works fine and gives you more control.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask05.png&quot; alt=&quot;MetaMask beta version&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you need to set up the program. Just a remark before we start. You can do everything in an extended view or in a pop-up view. If you close by accident the tab with MetaMask in the browser, you can return to the extended view anytime by clicking on the icon to open the pop-up view. Then you press the account options represented by tree dots and select “Extended View”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask06.png&quot; alt=&quot;MetaMask welcome&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose a secure password, something much better than “12345678”. This password secures your access to MetaMask and the mnemonic of your account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask07.png&quot; alt=&quot;MetaMask create password&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you see your account picture. Out of your mnemonic a unique picture has been created. By time you will remember this picture. It is a help to visualize on which account you are or to which account you are sending the cryptocurrency ether.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask08.png&quot; alt=&quot;MetaMask account image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please read the terms of use.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask09.png&quot; alt=&quot;MetaMask read terms of use&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After scrolling down you can accept them.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask10.png&quot; alt=&quot;MetaMask accept terms of use&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ethereum is a public blockchain. This means anyone can see the amount of ether you hold on your account. But only the people to whom you give your account address know this is your account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask11.png&quot; alt=&quot;MetaMask privacy notice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Read the warning carefully. Never unveil your mnemonic when prompted. Actually you should only unveil it when you do the setup and leave it covered from then on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask12.png&quot; alt=&quot;MetaMask phishing warning&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now it gets interesting. Behind this screen you find your mnemonic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask13.png&quot; alt=&quot;MetaMask mnemonic veiled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tada! This is what a mnemonic looks like. Now that you know my mnemonic you would not use it to access my account. Right, or would you?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask14.png&quot; alt=&quot;MetaMask mnemonic uncovered&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So my mnemonic is “permit submit garden soul ritual idea recall leave begin punch island minimum”. You can use it to get access to the same account from anywhere in the world. If you make a new installation, just press “Import with Seed Phrase” after defining your password. And you are in the account. You can check if you get the same account picture as me. 
+This means you really need to store this mnemonic safely. I leave it up to you how you would like to define storing safely. For the moment I am assuming you will just store a small amount on the account. A piece of paper is therefore fine to store the mnemonic. Just write each word on the paper: permit submit garden soul ritual idea recall leave begin punch island minimum.
+You need to confirm the mnemonic as a security check:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask15.png&quot; alt=&quot;MetaMask confirm mnemonic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And press the words in the right order.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask16.png&quot; alt=&quot;MetaMask 1st word confirmed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, next comes “recall” and so on.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask17.png&quot; alt=&quot;MetaMask ongoing mnemonic confirmation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And finally you can confirm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask18.png&quot; alt=&quot;MetaMask reconstituted mnemonic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now your installation is finished and you have an account. Continue to view account.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask19.png&quot; alt=&quot;MetaMask deposit ether&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here you see the account. Just click into the letters below the 2D bar code.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask20.png&quot; alt=&quot;MetaMask account info&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The full account number is now selected and you can copy it from there. In my case, the full account number is 0xbC7239152986676176991E7A129cC8E3D92379Cf.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask21.png&quot; alt=&quot;MetaMask copy account address&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The account is empty and you need to buy ether (ETH) before you can make a transaction. Ether is a cryptocurrency with a limited supply and all ether is already in circulation. There is no recreation or minting of ether taking place. This is in contrast to the real money, where every country will print money as needed. And another difference is that no country is accepting cryptocurrency as official money, even when some treat them as a foreign currency. This means ether has only value from the people giving it a value. You are one of these people giving it a value. If you want to have a tiny amount of ether, you need to offer real money until someone else is willing to give you ether. Luckily, you don’t need to search for someone with ether and make a bid personally. There are many cryptocurrency exchanges established over the whole world. If there are price differences between them someone trades between them and the differences get smaller. From a practical point of view there roughly on actual price for ether, but you loose money in fees when you trade on an exchange. There is always a small spread between the buy and sell price, as with an real money foreign exchange. The actual price you can check at &lt;a href=&quot;https://coinmarketcap.com/currencies/ethereum/&quot;&gt;CoinMarketCap&lt;/a&gt;. There you can also see how much the value is fluctuating. If more people want to use ETH the price will raise and it will fall if less people want to use it.&lt;/p&gt;
+
+&lt;h2 id=&quot;acquire-ether&quot;&gt;Acquire ether&lt;/h2&gt;
+&lt;p&gt;There are many, many ether exchanges. You can check some reviews at &lt;a href=&quot;https://99bitcoins.com/best-ethereum-exchange-review-comparison/&quot;&gt;99bitcoins&lt;/a&gt; and &lt;a href=&quot;https://coincentral.com/how-to-buy-ethereum-and-best-exchange-ratings/&quot;&gt;CoinCentral&lt;/a&gt;, or google a bit yourself to make your own choice. You need to find one that operates in your country, is reliable, has low fees and is easy to use. I did choose &lt;a href=&quot;https://www.bitpanda.com/en&quot;&gt;Bitpanda&lt;/a&gt; because the interface is beginner friendly, but they only sell to European customers. Another advantage of Bitpanda is that they accept bank wire transfers. This way credit card fees can be avoided.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda01.png&quot; alt=&quot;Bitpanda start page&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once your account has been verified you can start trading. First you need to deposit some money - just click on “Deposit”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda02.png&quot; alt=&quot;Bitpanda fresh account&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose your deposit currency.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda03.png&quot; alt=&quot;Bitpanda deposit choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose payment method. I did choose Visa as I did not want to wait for a wire transfer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda04.png&quot; alt=&quot;Bitpanda deposit choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose amount&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda05.png&quot; alt=&quot;Bitpanda amount choice&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and confirm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda06.png&quot; alt=&quot;Bitpanda confirm&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enter the SMS PIN to approve current fiat wallet transaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda07.png&quot; alt=&quot;Bitpanda enter PIN&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now your ready to pay. Go to payment&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda08.png&quot; alt=&quot;Bitpanda go to payment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and enter your credit card details.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda09.png&quot; alt=&quot;mPay24 payment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Then confirm here and with the card issuer afterwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda10.png&quot; alt=&quot;mPay24 payment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The payment was successful. You can close the tab and update the dashboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda11.png&quot; alt=&quot;mPay24 payment&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The fund is immediately available. Now click on “Trade”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda12.png&quot; alt=&quot;Bitpanda updated dashboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and “Buy”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda13.png&quot; alt=&quot;Bitpanda trade&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Select “ETH Wallet”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda14.png&quot; alt=&quot;Bitpanda buy cryptocoins&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “EUR Wallet”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda15.png&quot; alt=&quot;Bitpanda choose fiat wallet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Maximum”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda16.png&quot; alt=&quot;Bitpanda buy ethereum 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and “Go to Summary”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda17.png&quot; alt=&quot;Bitpanda buy ethereum 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Confirm and click on “Buy now”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda18.png&quot; alt=&quot;Bitpanda buy ethereum summary&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The trade was successful. Click on “Done”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda19.png&quot; alt=&quot;Bitpanda buy ethereum success&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Send”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda20.png&quot; alt=&quot;Bitpanda dashboard after trade&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Choose ETH Wallet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda21.png&quot; alt=&quot;Bitpanda send choose wallet&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you need to specify where you want the ether to be sent to. Copy and paste the address from MetaMask here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda22.png&quot; alt=&quot;Bitpanda send address 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In my case, the address is 0xbC7239152986676176991E7A129cC8E3D92379Cf and I confirm with “OK”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda23.png&quot; alt=&quot;Bitpanda send address 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Maximum”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda24.png&quot; alt=&quot;Bitpanda send amount&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Go to Summary”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda25.png&quot; alt=&quot;Bitpanda send amount&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and confirm the summary.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda26.png&quot; alt=&quot;Bitpanda send summary&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now you just need to confirm the link in your email inbox&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda27.png&quot; alt=&quot;Bitpanda Send email link&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and the ETH are transferred to your own wallet. The one only you know the account’s mnemonic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda28.png&quot; alt=&quot;Bitpanda Send email link&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And indeed the ETH arrived.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask22.png&quot; alt=&quot;MetaMask ETH arrival&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;make-transactions-on-the-ethereum-network&quot;&gt;Make Transactions on the ethereum network&lt;/h2&gt;
+&lt;p&gt;Now you are ready to make your first transactions. Click on “Send”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask23.png&quot; alt=&quot;MetaMask send&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s test to send a small amount to an ETH address of mine:
+0x190b741eBd9aDA48313f0eF5EadaA1C82C049281&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask24.png&quot; alt=&quot;MetaMask send to address&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each transaction needs to be confirmed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask25.png&quot; alt=&quot;MetaMask send confirmation&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First the transaction appears as pending.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask26.png&quot; alt=&quot;MetaMask sent pending&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As soon as the transaction is written to the blockchain, the transaction is shown as confirmed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask27.png&quot; alt=&quot;MetaMask sent confirmed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That worked well. Now you can send ether to anyone with an ethereum address. This is independent of the physical location of the person. The blockchain is decentralized. No person is nearer or more far away from it.&lt;/p&gt;
+
+&lt;p&gt;Let’s do something more complicated - like sending ETH to a smart contract. Behind a smart contract is not person with a mnemonic but code. The smart contract will do what it is programmed to do. You need to find out more about the smart contract and what is behind it. Usually there is a homepage telling you more about it.&lt;/p&gt;
+
+&lt;p&gt;I want to send ETH to the know-how donation crowdfunding contract. The contract is collecting ether for the creation of a foundation that will foster a know-how transfer paradigm change. Companies invest tremendous resources into the build up of know-how. Because of competition they usually keep this know-how secret. The paradigm shift will be to make the know-how available for future generations with timed know-how donations. The foundation is needed to provide the infrastructure for the encryption and timed release in the future. In my opinion such a paradigm shift would have a tremendous impact in the long run. If you are interested in more details about the know-how donation concept, please read more &lt;a href=&quot;https://www.knowhowdonation.org/whitepaper/&quot;&gt;here&lt;/a&gt;. Would you like to join me in making a transfer - be it with a minimal amount just to test the smart contract behavior our because you like the concept of timed know-how donations?&lt;/p&gt;
+
+&lt;p&gt;This time when you send ether to an contract address, the transaction is not just changing numbers in a balance sheet. You get coins back as a receipt and the ether is stored in an escrow within the blockchain until Wednesday, May 1, 2019. If the goal of 500 ETH is reached I get access to the fund and will create a non-profit foundation with the money. If the goal is not reached, then everyone who transferred ether to the contract can initiate a contract function that sends the ether back.&lt;/p&gt;
+
+&lt;p&gt;By the way, you can log of from Bitpanda and close its tab. You reached independence of Bitpanda.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bitpanda29.png&quot; alt=&quot;Bitpanda after transfer&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The transfer itself works exactly the same way as when you send the ether to a mnemonic account. Just click on “Send”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask28.png&quot; alt=&quot;MetaMask send&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Enter the smart contract address 0x6A5E59fBaeA3E07737fBAFCeb600CBDe5a295F24 and the amount you would like to donate for the know-how donation cause.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask29.png&quot; alt=&quot;MetaMask send&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The indicated transaction price to the smart contract address is much higher than the one mnemonic address. The reason behind is simple. The smart contract requires more storage and computing power on the decentralized blockchain. Therefore, the costs are higher. However the gas fee of 0.038 ETH indicated represents more maximal transaction price. Click on the slider next to the Gas Fee to learn more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask30.png&quot; alt=&quot;MetaMask send address&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The 0.038 ETH gas fee are coming from the multiplication of gas prize of 5GWEI times gas limit of 7600000. There comes an analogy handy when a transaction is launched it is like a truck delivering some goods. Before the truck can start he must get gasoline at a gas station. The gasoline has a gas prize and the tank a limiting volume. The truck cannot tank more gasoline than the volume of the tank. The tank is empty before the truck starts the delivery. Therefore, the truck driver needs to pay at the gas station to fill the tank up. He needs to pay the gasoline prize times the volume. The higher the gasoline prize the more he needs to pay. However, when the truck driver returns after his delivery he will still have some gasoline left. For this gasoline he gets a refund. Therefore, the transaction price is lower than the gas fee to confirm before the truck driver starts his tour. You can change the gas prize and the gas limit manually. Don’t lower the gas limit. You only risk the the truck driver runs out of fuel before he finished the delivery. This would mean, no delivery of the ETH to the contract, but full consumption of the gasoline. However, you could look for a cheaper gas station. Open &lt;a href=&quot;https://ethgasstation.info/&quot;&gt;ETH Gas Station&lt;/a&gt; in a separate tab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask31.png&quot; alt=&quot;MetaMask send address&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Every transaction needs to confirmed by someone running a full ethereum installation. This confirmation is called mining as the miners gets a tiny little amount from the confirmations. It is a a bit like mining gold. You pay with the gas fee the inscription of the transaction to the blockchain. The gas fee is an incentive for all Miners to let their computers work on the task and it pays for their running costs. Naturally, miners prefer higher payed transactions with a higher gas prize. This means a transaction with a lower gas prize will have more trouble to get confirmed by the miners. The value of the gas prize depends on the traffic in the ethereum network. You see on the ETH gas station what lower limit of gas prize that has good chance to be confirmed within 5 min. Right now the this lower limit gas prize is 2.1 GWEI. You can lower the gas prize manually with the risk that the transaction will be written to the blockcain. This can happen if the reward for the miners is too low and they always have higher prized transactions in the queue. I would not recommend to go lower than the save low &amp;lt;30 min gas prize limit.&lt;/p&gt;
+
+&lt;p&gt;If you send now a transaction with a gas prize of 2.5 GWEI, the waiting time till confirmation should not be too bad. We have all information needed, you can close the tab again and update the Customize Gas settings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ethgasstation01.png&quot; alt=&quot;ETH Gas Station network state&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Save”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask32.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The truck driver can now start his tour with half the prize at the gas station and the final costs will be half of before. Click on “Next”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask33.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and confirm the transaction.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask34.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At first the transaction is pending and …&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask35.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;then confirmed after 28 minutes. The reason it took longer is the lower gas prize. But hey, it was a half prize transaction. Let’s get some more information. Click on the account picture above “Account 1”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask36.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “View account on etherscan”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask37.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you see an overview of all transactions of the account. To learn more about the transaction, click on the last TxHash.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask38.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The last transaction did only cost 0.000233635 ETH of the 0.019 ETH available gas for the transaction. That means it did cost 1.23% of the gas fee confirmed. The percentage used will vary by reasons beyond your control for every transaction, but it is good to know the actual price is usually lower than the fee confirmed.&lt;/p&gt;
+
+&lt;p&gt;And there were 10 ERC20 token with the name KHDON transferred. Click on “ERC-20 (KHDON)”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask39.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Up to now there is a total supply of 20 KHDON token. With every ETH transferred to the crowdfunding contract another 10 KHDON token are created until the crowdfunding ends at May 01, 2019. Thereafter the KHDON token supply is fixed an no more token can be created by the KHDON token contract. Copy the address behind “Contract”: 0x9cecfc560eea26e47eac74eb5ee908ccb0f8c194 and close the tab.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/MetaMask40.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Close the account info.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask41.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a token linked to the account, but we do not see it in MetaMask. Click on “Add Token”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask42.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on “Custom Token”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask43.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Paste the contract address 0x9cecfc560eea26e47eac74eb5ee908ccb0f8c194 into the field “Token Address”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask44.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;and click “Next”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask45.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are 10 KHDON token linked to the account. Click on “Add Tokens”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask46.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations. The 10 KHDON are now directly visible as a trophy in the account. You can add any token by this method.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/metamask47.png&quot; alt=&quot;MetaMask send customize gas&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;By now you should be familiar with making basic transactions on the ethereum network. I hope you enjoyed the ride.&lt;/p&gt;
+
+&lt;p&gt;The step-by-step guide should allow you to get started to make transactions to any ethereum address. I used an account address of mine and the one of the &lt;a href=&quot;https://www.knowhowdonation.org/ICO/&quot;&gt;know-how donation crowdfunding campaign&lt;/a&gt; as an example. If you like the concept behind timed know-how donations, I would be pleased if you participate in the crowdfunding campaign.&lt;/p&gt;
+
+&lt;p&gt;Otherwise just replace the addresses by your own choice. I strongly recommend that you make some research before you use a new address and you double check that you copied the right address before you make a transaction. You need to verify who is behind an address and in case of contracts what the contract is doing. This is a precaution to avoid loosing ether. A contract could for example have an error in the code so that no one can ever retrieve again the transferred ether. People test the contract code before deployment, but you need to gain confidence before make a transaction. No one can give you guarantees and you are responsible for your own actions. These are just little precautionary remarks to help you. Don’t let yourself be discouraged.&lt;/p&gt;
+
+&lt;p&gt;If you dare to make your own responsible steps you will gain the ability to transfer value in a decentralized blockchain. And how cool is that! Your transactions are written into a blockchain that is available to anyone, that has not one location but many and is independent of any nation. The technology allows many new ideas. Anything is possible on the ethereum network and it is a wonderful world to explore. Let yourself be inspired and good luck with your first steps.&lt;/p&gt;
+
+&lt;p&gt;Please give me a feedback if the guide worked for you. I am also happy to answer questions on the topic if you have any.&lt;/p&gt;</content><summary type="html">Let's go step by step into how to get an account on MetaMask, acquire some real ether and make your first transactions on the ethereum blockchain.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.knowhowdonation.org" /></entry><entry><title type="html">Know-How Donation Crowdfunding ICO has started</title><link href="https://www.knowhowdonation.org/blog/know-how-donation-crowdfunding-ico-has-started/" rel="alternate" type="text/html" title="Know-How Donation Crowdfunding ICO has started" /><published>2018-10-13T00:00:00+02:00</published><updated>2018-10-13T00:00:00+02:00</updated><id>https://www.knowhowdonation.org/blog/know-how-donation-crowdfunding-ico-has-started</id><content type="html" xml:base="https://www.knowhowdonation.org/blog/know-how-donation-crowdfunding-ico-has-started/">&lt;p&gt;It was quite a journey from the first glimpse of the idea behind timed know-how donations on the highway towards a fully developed concept written down in a white paper. This journey convinced me that a know-how transfer paradigm shift is possible. We just need to reach a critical mass of people adopting the new practice.&lt;/p&gt;
 
 &lt;p&gt;This is a very exciting moment for me. Until now I did not share my ideas with the world, but now this homepage is ready and I have developed a crowdfunding ICO to collect the funds that allow the concept to become a reality.&lt;/p&gt;</content><summary type="html">The concept of timed know-how donations becomes public and the know-how donation crowdfunding started today with an ICO on the ethereum network.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://www.knowhowdonation.org" /></entry></feed>
